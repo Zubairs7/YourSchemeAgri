@@ -17,6 +17,75 @@ const schemes = [
         link: "https://pmfby.gov.in",
         type: "central"
     }
+    [
+    {
+        "name": "Karnataka Ganga Kalyana Scheme",
+        "description": "Provides irrigation facilities to farmers through borewells, pump sets, and pipelines with subsidies up to ₹3.5 lakh for specific districts and ₹2 lakh for others.",
+        "link": "https://karnatakaone.in/karnataka-ganga-kalyana-scheme/",
+        "type": "state"
+    },
+    {
+        "name": "Raitha Siri",
+        "description": "Offers incentives of ₹10,000 per hectare to millet growers to encourage sustainable agriculture.",
+        "link": "https://govinfo.me/list-of-karnataka-government-schemes-for-farmers-innovative-schemes-for-agri-sector/",
+        "type": "state"
+    },
+    {
+        "name": "Zero Budget Farming",
+        "description": "Allocates ₹40 crores for equipment grants to promote cost-effective, organic farming methods.",
+        "link": "https://govinfo.me/list-of-karnataka-government-schemes-for-farmers-innovative-schemes-for-agri-sector/",
+        "type": "state"
+    },
+    {
+        "name": "CM’s Micro Irrigation Scheme",
+        "description": "Grants a 90% subsidy for farmers to adopt drip irrigation systems.",
+        "link": "https://govinfo.me/list-of-karnataka-government-schemes-for-farmers-innovative-schemes-for-agri-sector/",
+        "type": "state"
+    },
+    {
+        "name": "Karavali Package",
+        "description": "Provides incentives to coastal region farmers for improving paddy yields at ₹7,500 per hectare.",
+        "link": "https://govinfo.me/list-of-karnataka-government-schemes-for-farmers-innovative-schemes-for-agri-sector/",
+        "type": "state"
+    },
+    {
+        "name": "Sericulture Support",
+        "description": "Initiatives to stabilize silk prices and promote sericulture.",
+        "link": "https://govinfo.me/list-of-karnataka-government-schemes-for-farmers-innovative-schemes-for-agri-sector/",
+        "type": "state"
+    },
+    {
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "description": "Offers crop insurance to farmers against natural calamities and market risks.",
+        "link": "https://pmfby.gov.in",
+        "type": "central"
+    },
+    {
+        "name": "Soil Health Card Scheme",
+        "description": "Provides farmers with detailed analysis of soil conditions to guide fertilizer use and improve yields.",
+        "link": "https://www.india.gov.in/spotlight/soil-health-card#tab=tab-1",
+        "type": "central"
+    },
+    {
+        "name": "PM-Kisan Samman Nidhi Yojana",
+        "description": "Offers financial assistance of ₹6,000 annually to small and marginal farmers in three installments.",
+        "link": "https://pmkisan.gov.in",
+        "type": "central"
+    },
+    {
+        "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "description": "Promotes organic farming through financial support and technical guidance.",
+        "link": "https://www.myscheme.gov.in/schemes/pkvy",
+        "type": "central"
+    },
+    {
+        "name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+        "description": "Provides states with flexibility and funding to plan and implement agricultural development projects.",
+        "link": "https://www.myscheme.gov.in/schemes/rkvy",
+        "type": "central"
+    }
+]
+
     // Add more schemes here as needed
 ];
 
