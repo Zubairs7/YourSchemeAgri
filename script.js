@@ -16,8 +16,8 @@ const schemes = [
         description: "Crop insurance for protection against natural calamities.",
         link: "https://pmfby.gov.in",
         type: "central"
-    }
-    [
+    },
+    
     {
         "name": "Karnataka Ganga Kalyana Scheme",
         "description": "Provides irrigation facilities to farmers through borewells, pump sets, and pipelines with subsidies up to ₹3.5 lakh for specific districts and ₹2 lakh for others.",
@@ -84,7 +84,6 @@ const schemes = [
         "link": "https://www.myscheme.gov.in/schemes/rkvy",
         "type": "central"
     }
-]
 
     // Add more schemes here as needed
 ];
